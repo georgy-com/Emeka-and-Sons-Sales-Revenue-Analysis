@@ -1,3 +1,5 @@
+Project overview:
+
 This project analyzes the sales performance of Emeka and Sons using an interactive Power BI dashboard. The objective was to evaluate revenue generation, sales representative performance, product contribution, and monthly sales trends to identify key business insights and support data-driven decision-making.
 Emeka and Sons required a centralized view of its sales operations to understand overall business performance, identify top-performing products and sales representatives, and uncover patterns influencing revenue growth. The organization needed actionable insights that could improve profitability, optimize inventory planning, and strengthen sales performance.
 
